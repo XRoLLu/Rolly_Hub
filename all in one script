@@ -1,1 +1,22 @@
-print("soon jsdhfjhsddgjhsdfjvkdsjknkvxcklvdzkcvnklnnvxlkcvnldsknvlkcxnvlksdnflksncvklnxlkdnvsldknvlsdknvlskdnvlkcnzcklxnzvlkndsjvncjvndlsjnvjlcnvljdnvklcnvsdnvcnvlkdsnvlkcnvlksndvlkdscnvcxknvkdnskcvnsndvksdv")
+-- heres a loader
+
+-- mining simulator 2
+if game.PlaceId == 9551640993 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/MS2_WHAT.lua"))()
+else
+print("WRONG GAME")
+end
+
+-- muscle legends
+if game.PlaceId == 2753915549 then 
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/XRoLLu/UWU/main/Muscle%20Legends%20Script(SIMPLE%20SCRIPT)'),true))()
+else
+print("WRONG GAME")
+end
+
+if game.PlaceId == 537413528 then 
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua'))()
+else
+print("WRONG GAME")
+end
+
