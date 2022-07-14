@@ -8,7 +8,7 @@ print("WRONG GAME")
 end
 
 -- muscle legends
-if game.PlaceId == 2753915549 then 
+if game.PlaceId == 3623096087 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Muscle%20Legends%20V2%20Obfuscated%20lel.lua"))()
 else
 print("WRONG GAME")
