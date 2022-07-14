@@ -20,4 +20,3 @@ if game.PlaceId == 537413528 then
 else
 print("WRONG GAME")
 end
-
