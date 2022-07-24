@@ -30,7 +30,7 @@ end
 
 --Legends Of Speed.exe
 if game.PlaceId == 3101667897 then 
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua'))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Legends%20Of%20Speed%20Script%20Obfuscated.exe", true))()
 else
 print("WRONG GAME")
 end
