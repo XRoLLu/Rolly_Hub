@@ -20,3 +20,17 @@ if game.PlaceId == 537413528 then
 else
 print("WRONG GAME")
 end
+
+--Break In X
+if game.PlaceId == 3851622790 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Break-In(Story)-X-Obfuscated.lua"))()
+else
+print("WRONG GAME")
+end
+
+--Legends Of Speed.exe
+if game.PlaceId == 3101667897 then 
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua'))()
+else
+print("WRONG GAME")
+end
