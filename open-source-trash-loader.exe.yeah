@@ -34,3 +34,10 @@ if game.PlaceId == 3101667897 then
 else
 print("WRONG GAME")
 end
+
+--ninja legends
+if game.PlaceId == 3956818381 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Ninja-Legenos.exe.lua"))()
+else
+print("WRONG GAME")
+end
