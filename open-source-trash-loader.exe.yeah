@@ -43,7 +43,7 @@ print("WRONG GAME")
 end
 
 --Mad Citi
-if game.PlaceId == 3956818381 then 
+if game.PlaceId == 1224212277 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/MaD%20CiTi/ObFusCatEd%20ScRiPt.lua"))()
 else
 print("WRONG GAME")
