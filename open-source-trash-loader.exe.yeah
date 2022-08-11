@@ -42,4 +42,9 @@ else
 print("WRONG GAME")
 end
 
+if game.PlaceId == 4951858512 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Victory%20Race%20Obfuscated.lua"))()
+else
+print("WRONG GAME")
+end
 
