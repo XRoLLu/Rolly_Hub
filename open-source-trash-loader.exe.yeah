@@ -16,7 +16,7 @@ end
 
 -- BUILD A BOAT FOR TREASURE
 if game.PlaceId == 537413528 then 
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/New%20BABFT'))()
 else
 print("WRONG GAME")
 end
