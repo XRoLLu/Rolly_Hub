@@ -49,3 +49,9 @@ else
 print("WRONG GAME")
 end
 
+--farm factory tycoon
+if game.PlaceId == 10198661638 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/fArM%20fAcTOrY%20tYcOOn.lua"))()
+else
+print("WRONG GAME")
+end
