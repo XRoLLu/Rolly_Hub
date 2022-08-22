@@ -41,7 +41,7 @@ if game.PlaceId == 10198661638 then
 end
 
 --race CLicker
-if game.PlaceId == 10198661638 then 
+if game.PlaceId == 9285238704 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/race%20clicker%20-%20Obfuscated.lua"))()
 end
 
