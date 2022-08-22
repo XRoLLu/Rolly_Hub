@@ -31,7 +31,7 @@ if game.PlaceId == 3956818381 then
 end
 
 --victory race
-if game.PlaceId == 9285238704 then 
+if game.PlaceId == 4951858512 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Victory%20Race%20Obfuscated.exe"))()
 end
 
