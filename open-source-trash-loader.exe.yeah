@@ -45,3 +45,7 @@ if game.PlaceId == 9285238704 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/race%20clicker%20-%20Obfuscated.lua"))()
 end
 
+--training simulator
+if game.PlaceId == 10047913840 then 
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/XRoLLu/UWU/main/training%20simulator"))()
+end
