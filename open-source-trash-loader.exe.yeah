@@ -54,3 +54,9 @@ end
 if game.PlaceId == 10660791703 then 
     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/XRoLLu/UWU/main/cart%20ride%20around%20nothing.lua"))()
 end
+
+--slime tower tycoon
+if game.PlaceId == 10675066724 then 
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/XRoLLu/UWU/main/Slime%20Tower%20Tycoon"))()
+end
+
