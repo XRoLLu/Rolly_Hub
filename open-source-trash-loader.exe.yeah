@@ -65,4 +65,8 @@ if game.PlaceId == 4566572536 then
     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/XRoLLu/UWU/main/Vehicle%20Legends"))()
 end
 
+--Edward The Man Eating Train... basically its a choo choo charles in ohio 💀
+if game.PlaceId == 10875701453 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Edward-The-Man-Eating-Train.lua", true))()
+end
 
