@@ -66,7 +66,11 @@ if game.PlaceId == 4566572536 then
 end
 
 --Edward The Man Eating Train... basically its a choo choo charles in ohio 💀
-if game.PlaceId == 9000622508 then 
+if game.PlaceId == 10875701453 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Edward-The-Man-Eating-Train.lua", true))()
 end
 
+--Mo's Academy - Main Game
+if game.PlaceId == 9000622508 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Mo's%20Academy.lua", true))()
+end
