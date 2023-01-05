@@ -74,3 +74,9 @@ end
 if game.PlaceId == 9000622508 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Mo's%20Academy.lua", true))()
 end
+
+--Monkey Tycoon
+if game.PlaceId == 11400511154 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Monkey%20Tycooni.lUa", true))()
+end
+
