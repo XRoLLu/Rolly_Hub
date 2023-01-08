@@ -90,5 +90,9 @@ if game.PlaceId == 10598587051 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Anime%20Clicker%20Fight.lua", true))()
 end
 
+--Anime Fruit Simulator
+if game.PlaceId == 10446125875 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Anime%20Fruit%20Simulator.lua", true))()
+end
 
 
