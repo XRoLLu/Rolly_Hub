@@ -95,4 +95,8 @@ if game.PlaceId == 10446125875 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Anime%20Fruit%20Simulator.lua", true))()
 end
 
+--Anime Soul Simulator Beta 0.0
+if game.PlaceId == 11542692507 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Anime%20Soul%20Simulator.lua", true))()
+end
 
